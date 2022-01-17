@@ -19,4 +19,7 @@ e.g. 2021-07-14_example-layer_IR
 - Using geopackages in R: https://ryanpeek.org/mapping-in-R-workshop/02_import_export_gpkg.html
 
 4. Metadata
-- Please accompany your file submission with a metadata file following the format of the metadata found in 2021-07-14_example-layer_IR
+- Please accompany your file submission with a metadata file following the format of the metadata found in 2021-07-14_example-layer_IR  
+
+
+**NOTE:** complete GIS datasets and accompanying metadata should be added to the D: drive of the lab computer, in the folder `GIS-database`. If you do not have access to the lab computer, please contact Bella.
